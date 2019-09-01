@@ -38,3 +38,5 @@ Finally-step, create a shortcut. In KDE Desktop environment, you access to **Sys
 ## Result
 
 Screenshot:
+
+![screenshot-result](https://github.com/tuanlh/notes/raw/master/images/sc_translate_result.png)
