@@ -1,2 +1,3 @@
-# ubuntu-auto-translate
-This is tutorial help you create a shortcut auto translation
+# summary
+1. **auto-translate.md**: is way to create shortcut translate words that you selected
+2. comming soon...
