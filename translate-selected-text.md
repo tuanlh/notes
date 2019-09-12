@@ -28,7 +28,7 @@ Third-step, move file just has created to /usr/local/bin/:
 sudo mv translate-selected-text /usr/local/bin/
 ```
 
-Finally-step, create a shortcut. In KDE Desktop environment, you access to **System settings** -> **Shortcuts** -> **Custom Shortcuts**, after create a shortcut with trigger shortcut is ``Ctrl+Shift+T`` and Action is command ``translate-selected-text``.
+Finally-step, create a shortcut. In KDE Desktop environment, you access to **System settings** -> **Shortcuts** -> **Custom Shortcuts**, after create a shortcut with trigger shortcut is ``Ctrl+Shift+L`` and Action is command ``translate-selected-text``.
 
 ![screenshot1](https://github.com/tuanlh/notes/raw/master/images/sc_shortcut_setting_1.png)
 
