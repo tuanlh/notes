@@ -1,3 +1,1 @@
-# summary
-1. **auto-translate.md**: is way to create shortcut translate words that you selected
-2. comming soon...
+# This is personal file in my life, you insterest it
